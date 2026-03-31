@@ -1,0 +1,4 @@
+Customer_Name,Total_Spent,Customer_Type,Total_Products_Bought
+Pournima,66000.00,"High Value",3
+Rahul,20000.00,"Medium Value",1
+Sneha,NULL,"Low Value",NULL
